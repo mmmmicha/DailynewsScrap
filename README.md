@@ -6,3 +6,7 @@
       - Title : "회사 자체가 거대한 IT실험실"…안면인식 결제부터 무인편의점까지
       - keyword : 애자일경영
       - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=008&aid=0004401715
+      
+      - Title : 인스웨이브, 차세대 예산회계시스템에 웹스퀘어5 공급
+      - keyword : 원소스멀티유즈(OSMU), SPA(Single Page Application),
+      - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=092&aid=0002187322
