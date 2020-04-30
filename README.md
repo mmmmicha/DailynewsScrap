@@ -14,3 +14,8 @@
       - Title : 넷앱, 쿠버네티스 커뮤니티와 개발 중인 ‘프로젝트 애스토라’ 공개
       - keyword : 프로젝트 애스트라, 쿠버네티스
       - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=138&aid=0002085491
+      
+    - 2020.04.30
+      - Title : 레드햇, 오픈소스 기술로 하이브리드 클라우드 환경 확산한다
+      - keyword : 하이브리드 클라우드
+      - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=031&aid=0000536566
