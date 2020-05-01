@@ -19,3 +19,8 @@
       - Title : 레드햇, 오픈소스 기술로 하이브리드 클라우드 환경 확산한다
       - keyword : 하이브리드 클라우드
       - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=031&aid=0000536566
+
+    - 2020.05.01
+      - Title : 언택트 시대, 로봇과 더 가까워졌다
+      - keyword : 언택트 서비스, AI 서비스
+      - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=032&aid=0003006623
