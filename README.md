@@ -24,3 +24,8 @@
       - Title : 언택트 시대, 로봇과 더 가까워졌다
       - keyword : 언택트 서비스, AI 서비스
       - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=032&aid=0003006623
+      
+    - 2020.05.01
+      - Title : [종합]코로나19 사태에도 클라우드는 웃었다
+      - keyword : 클라우드 사업 흑자
+      - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=031&aid=0000536611
