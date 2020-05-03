@@ -34,3 +34,7 @@
       - Title : ‘포스트 코로나’ 언택트 시대… 초연결 5G망 세계 잇는다
       - keyword : 5G의 상용화
       - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=230&oid=022&aid=0003461873
+      
+      - Title : 손님은 빅데이터… '서버 호텔' 시장 250조원 돌파
+      - keyword : 서버호텔, D램, 반도체
+      - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=230&oid=023&aid=0003528265
