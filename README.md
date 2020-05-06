@@ -38,3 +38,8 @@
       - Title : 손님은 빅데이터… '서버 호텔' 시장 250조원 돌파
       - keyword : 서버호텔, D램, 반도체
       - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=230&oid=023&aid=0003528265
+      
+    - 2020.05.06
+      - Title : [초점]줌은 왜 오라클을 선택했을까
+      - keyword : Oracle cloud, 보안강세, zoom 의 google 및 MS 견제, zoom 의 화상회의 시스템 강세
+      - link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=031&aid=0000536884
