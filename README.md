@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.08
+      >- Title : ‘넷플릭스법’에 네이버·카카오도 부글부글…왜?
+      >- keyword : 해외 CP 들은 국내 ISP에 망사용료를 내고 있지 않음. but 망사용정책수정은 국내 CP에 독이 될수도...
+      >- link : http://www.bloter.net/archives/379942
+    
       >- Title : 수돗물 신뢰도↑…부산 상수도 관리에 블록체인 기술 도입
       >- keyword : 수돗물 품질 관리 센서와 연결된 블록체인 기술로 데이터의 신뢰성을 변경불가하고 이로써 신뢰성을 보장
       >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=230&oid=001&aid=0011594836
