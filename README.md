@@ -1,6 +1,11 @@
 # Dailynews_Scrap
 
   - 매일매일 IT 뉴스 스크랩하기
+  
+    - 2020.05.08
+      >- Title : '깜짝 실적'이지만…같은 듯 다른 네이버·카카오
+      >- keyword : 네이버, 카카오, 비슷한 사업포트폴리오 but 약간은 다른 방향성
+      >- link : https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=008&aid=0004405360
     
     - 2020.05.07
       >- Title : 프로그래밍 언어 '고'와 '러스트' 명암 엇갈려...왜?
