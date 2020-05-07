@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.08
+      >- Title : 수돗물 신뢰도↑…부산 상수도 관리에 블록체인 기술 도입
+      >- keyword : 수돗물 품질 관리 센서와 연결된 블록체인 기술로 데이터의 신뢰성을 변경불가하고 이로써 신뢰성을 보장
+      >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=230&oid=001&aid=0011594836
+    
       >- Title : '깜짝 실적'이지만…같은 듯 다른 네이버·카카오
       >- keyword : 네이버, 카카오, 비슷한 사업포트폴리오 but 약간은 다른 방향성
       >- link : https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=008&aid=0004405360
