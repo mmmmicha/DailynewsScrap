@@ -6,6 +6,10 @@
       >- Title : 프로그래밍 언어 '고'와 '러스트' 명암 엇갈려...왜?
       >- keyword : Go, Rust, Go의 우세, Google, Go는 쉬움, Rust는 어렵지만 성능 상
       >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=092&aid=0002187806
+      
+      >- Title : 재택근무 확대에 문서중앙화 솔루션도 '각광'
+      >- keyword : 문서중앙화 솔루션, 보안, 재택근무확대에 따른 수요증가
+      >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=031&aid=0000537084
   
     - 2020.05.06
       >- Title : [초점]줌은 왜 오라클을 선택했을까
