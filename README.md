@@ -2,6 +2,11 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.11
+      >- Title : SK C&C "컨테이너 도입 쉽게…클라우드 시장 확대한다"
+      >- keyword : ZCP, 쿠버네티스, 클라우드 관리
+      >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=031&aid=0000537569
+  
     - 2020.05.08
       >- Title : ‘넷플릭스법’에 네이버·카카오도 부글부글…왜?
       >- keyword : 해외 CP 들은 국내 ISP에 망사용료를 내고 있지 않음. but 망사용정책수정은 국내 CP에 독이 될수도...
