@@ -2,6 +2,11 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.12
+      >- Title : IBM “데이터 활용과 공유 신뢰성이 기업의 성과 가른다”
+      >- keyword : 데이터신뢰성
+      >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=138&aid=0002085927
+  
     - 2020.05.11
       >- Title : SK C&C "컨테이너 도입 쉽게…클라우드 시장 확대한다"
       >- keyword : ZCP, 쿠버네티스, 클라우드 관리
