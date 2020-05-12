@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.12
+      >- Title : 택진이형 '밤샘' 보람있네, 역대최대 1분기 매출 낸 엔씨
+      >- keyword : 리니지 2M 플레이스토어 매출 1위, 2조 클럽 사실상 확실
+      >- link : https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=008&aid=0004407253
+    
       >- Title : 리미니스트리트, 카카오의 오라클 DB 유지보수
       >- keyword : 제 3자 DB 유지보수 서비스제공기업, 불필요한 업그레이드 제거, 실리추구
       >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=092&aid=0002188243
