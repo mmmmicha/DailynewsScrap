@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.12
+      >- Title : 리미니스트리트, 카카오의 오라클 DB 유지보수
+      >- keyword : 제 3자 DB 유지보수 서비스제공기업, 불필요한 업그레이드 제거, 실리추구
+      >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=092&aid=0002188243
+    
       >- Title : "아마존·넷플릭스·쿠팡처럼"…네이버도 '원스톱 구독경제' 뛰어든다
       >- keyword : 구독경제, 아마존 성공사례, 캐시카우, 
       >- link : https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=421&aid=0004631931
