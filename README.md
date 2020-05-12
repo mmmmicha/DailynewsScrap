@@ -4,7 +4,7 @@
   
     - 2020.05.12
       >- Title : "아마존·넷플릭스·쿠팡처럼"…네이버도 '원스톱 구독경제' 뛰어든다
-      >- keyword : 구독경제, 아마존 성공사례
+      >- keyword : 구독경제, 아마존 성공사례, 캐시카우, 
       >- link : https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=105&oid=421&aid=0004631931
     
       >- Title : IBM “데이터 활용과 공유 신뢰성이 기업의 성과 가른다”
