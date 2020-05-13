@@ -2,6 +2,15 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.13
+      >- Title : 엣지 컴퓨팅, 클라우드 컴퓨팅 시대의 새 장(場) 열다
+      >- keyword : 엣지 컴퓨팅, 클라우드, 포그 컴퓨팅, 클라우드렛, 머신러닝
+      >- link : https://news.samsung.com/kr/%EC%97%A3%EC%A7%80-%EC%BB%B4%ED%93%A8%ED%8C%85-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%83%88-%EC%9E%A5%E5%A0%B4-%EC%97%B4%EB%8B%A4
+    
+      >- Title : SKT, 아마존과 5G 에지 클라우드 첫선
+      >- keyword : 기업들의 초저속화 어플리케이션 기대, 5G네트워크 끝자락에 스토리지인프라 구축, 5G MEC
+      >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=230&oid=029&aid=0002597949
+  
     - 2020.05.12
       >- Title : 택진이형 '밤샘' 보람있네, 역대최대 1분기 매출 낸 엔씨
       >- keyword : 리니지 2M 플레이스토어 매출 1위, 2조 클럽 사실상 확실
