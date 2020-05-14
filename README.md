@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.15
+      >- Title : 소니, “이미지센서에 AI 내장” 신제품 발표
+      >- keyword : 이미지센서에 AI내장, 사진찍는동시에 그 이미지에 대한 최적화와 클라우드 기능까지
+      >- link : http://www.bloter.net/archives/380968
+    
       >- Title : 페이스북, 영상회의 '메신저 룸스' 출시
       >- keyword : 인스타그램의 라이브방송 착안, zoom 화상회의 상위호환, 아이디 없어도 사용가능
       >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=230&oid=293&aid=0000028114
