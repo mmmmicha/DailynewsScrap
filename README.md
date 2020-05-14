@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.15
+      >- Title : 인텔, ‘게이밍 특화 프로세서’ 10세대 코어S시리즈 공개
+      >- keyword : 10세대
+      >- link : http://www.bloter.net/archives/380841
+    
       >- Title : 소니, “이미지센서에 AI 내장” 신제품 발표
       >- keyword : 이미지센서에 AI내장, 사진찍는동시에 그 이미지에 대한 최적화와 클라우드 기능까지
       >- link : http://www.bloter.net/archives/380968
