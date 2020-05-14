@@ -2,6 +2,11 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.14
+      >- Title : "AI로 IT인프라 이상 감지"…IBM '왓슨 AI옵스' 출시
+      >- keyword : 왓슨 AI 옵스, AI 성공조건 : 언어, 자동화, 신뢰
+      >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=283&oid=031&aid=0000538403
+  
     - 2020.05.13
       >- Title : 엣지 컴퓨팅, 클라우드 컴퓨팅 시대의 새 장(場) 열다
       >- keyword : 엣지 컴퓨팅, 클라우드, 포그 컴퓨팅, 클라우드렛, 머신러닝
