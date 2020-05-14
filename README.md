@@ -2,6 +2,11 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.15
+      >- Title : 페이스북, 영상회의 '메신저 룸스' 출시
+      >- keyword : 인스타그램의 라이브방송 착안, zoom 화상회의 상위호환, 아이디 없어도 사용가능
+      >- link : https://news.naver.com/main/read.nhn?mode=LS2D&mid=shm&sid1=105&sid2=230&oid=293&aid=0000028114
+  
     - 2020.05.14
       >- Title : 젠슨 황 "반도체도 SW기술력 없인 미래없다"
       >- keyword : GPU, NVIDIA
