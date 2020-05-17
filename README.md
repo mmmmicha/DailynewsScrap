@@ -3,6 +3,11 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.17
+    
+      >- Title : 그린랩스, ‘스마트팜’으로 총 105억 누적투자 유치
+      >- keyword : 농업 클라우드 플랫폼 제시
+      >- link : http://www.bloter.net/archives/381144
+    
       >- Title : 통신 3사, 탈통신으로 포스트 코로나 시대 준비
       >- keyword : 포스트 코로나, 통신제외 다양한 포트폴리오 진행
       >- link : http://www.bloter.net/archives/381267
