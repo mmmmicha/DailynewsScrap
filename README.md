@@ -4,6 +4,10 @@
   
     - 2020.05.17
     
+      >- Title : 구글, 모바일 크롬 개선 나선다…안드로이드 폰 배터리↑
+      >- keyword : 광고줄임효과
+      >- link : http://www.bloter.net/archives/381303
+    
       >- Title : 그린랩스, ‘스마트팜’으로 총 105억 누적투자 유치
       >- keyword : 농업 클라우드 플랫폼 제시
       >- link : http://www.bloter.net/archives/381144
