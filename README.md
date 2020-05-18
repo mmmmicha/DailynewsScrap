@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.19
+      >- Title : 현대차서 분사한 ‘카풀’ 스타트업…“직장인 겨냥”
+      >- keyword : 원더무브(카풀 스타트업), 현대에서 분사
+      >- link : http://www.bloter.net/archives/381400
+    
       >- Title : “승객 80% 감소”…우버, 3000여명 추가 감원한다
       >- keyword : 차량호출 서비스수요 80% 
       >- link : http://www.bloter.net/archives/381504
