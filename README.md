@@ -2,8 +2,12 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.19
+      >- Title : 쏘카, 제주서 자율주행 셔틀 첫선
+      >- keyword : 자율주행, 모빌리티사업
+      >- link : http://www.bloter.net/archives/381337
+  
     - 2020.05.18
-    
       >- Title : 구글, 모바일 크롬 개선 나선다…안드로이드 폰 배터리↑
       >- keyword : 광고줄임효과
       >- link : http://www.bloter.net/archives/381303
