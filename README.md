@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.19
+      >- Title : “승객 80% 감소”…우버, 3000여명 추가 감원한다
+      >- keyword : 차량호출 서비스수요 80% 
+      >- link : http://www.bloter.net/archives/381504
+    
       >- Title : 쏘카, 제주서 자율주행 셔틀 첫선
       >- keyword : 자율주행, 모빌리티사업
       >- link : http://www.bloter.net/archives/381337
