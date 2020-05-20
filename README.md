@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.21
+      >- Title : “블록체인 기반 포인트 호환 생태계로 기업 블록체인 가능성 입증”
+      >- keyword : BlockChain-as-a-Service (Baas), 블록체인 컨소시엄 포인트 프로젝트
+      >- link : http://www.bloter.net/archives/379687
+    
       >- Title : 이더리움 지갑 ‘아전트’, 베타 마치고 공식 출시
       >- keyword : 이더리움 전자 지갑
       >- link : http://www.bloter.net/archives/381519
