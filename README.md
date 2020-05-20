@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.21
+      >- Title : 이더리움 지갑 ‘아전트’, 베타 마치고 공식 출시
+      >- keyword : 이더리움 전자 지갑
+      >- link : http://www.bloter.net/archives/381519
+    
       >- Title : '지긋지긋한 공인인증서’ 21년 만에 폐지 임박…대체 전자서명은
       >- keyword : 카카오인증, pass 등...
       >- link : http://www.bloter.net/archives/381620
