@@ -2,6 +2,11 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.22
+      >- Title : 보수적이던 MS의 변화 “개발자여, 커뮤니티 리더가 돼라”
+      >- keyword : 커뮤니티리더, 많은사람들이 모여야만 커뮤니티가 아니다.
+      >- link : http://www.bloter.net/archives/382089
+  
     - 2020.05.21
       >- Title : “블록체인 기반 포인트 호환 생태계로 기업 블록체인 가능성 입증”
       >- keyword : BlockChain-as-a-Service (Baas), 블록체인 컨소시엄 포인트 프로젝트
