@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.22
+      >- Title : 배그 모바일 대박에 크래프톤 ‘전성기’…1분기 영업익만 3500억원
+      >- keyword : 크래프톤, IPO공개가 변수
+      >- link : http://www.bloter.net/archives/382033
+    
       >- Title : 보수적이던 MS의 변화 “개발자여, 커뮤니티 리더가 돼라”
       >- keyword : 커뮤니티리더, 많은사람들이 모여야만 커뮤니티가 아니다.
       >- link : http://www.bloter.net/archives/382089
