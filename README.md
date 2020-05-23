@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.23
+      >- Title : 클라우드 중심 재편 MS, 5G시대 ‘통신사 야망’
+      >- keyword : 클라우드중심기업, 5G에 맞춰 통신기업야망
+      >- link : http://www.bloter.net/archives/382359
+    
       >- Title : “협업 툴, ‘직원경험(EX)’ 높여…RPA·보안 후속조치 대비하라”
       >- keyword : 기업들의 협업툴 도입 가속화, 효율 높아
       >- link : bloter.net/archives/382354
