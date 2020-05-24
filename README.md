@@ -2,6 +2,11 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.24
+      >- Title : [뉴스後] 페이스북이 품은 ‘움짤 천국’ 기피(Giphy)
+      >- keyword : GIF
+      >- link : http://www.bloter.net/archives/381481
+  
     - 2020.05.23
       >- Title : 클라우드 중심 재편 MS, 5G시대 ‘통신사 야망’
       >- keyword : 클라우드중심기업, 5G에 맞춰 통신기업야망
