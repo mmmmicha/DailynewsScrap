@@ -2,6 +2,11 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.05.25
+      >- Title : “마인크래프트 던전스의 원천은 마인크래프트”
+      >- keyword : 마인크래프트의 디아블로화
+      >- link : http://www.bloter.net/archives/382331
+  
     - 2020.05.24
       >- Title : [뉴스後] 페이스북이 품은 ‘움짤 천국’ 기피(Giphy)
       >- keyword : GIF
