@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.25
+      >- Title : 레드햇 “단일 플랫폼서 컨테이너·VM·서버리스 앱 모두 운영”
+      >- keyword : 레드햇, 쿠버네티스 2인자, 클라우드
+      >- link : https://www.bloter.net/archives/379499
+    
       >-Title : 화웨이, 작년 IaaS 클라우드 200% 넘게 성장…세계 6위
       >- keyword : AI, Iaas
       >- link : http://www.bloter.net/archives/379080
