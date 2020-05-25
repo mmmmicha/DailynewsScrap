@@ -7,7 +7,7 @@
       >- keyword : 레드햇, 쿠버네티스 2인자, 클라우드
       >- link : https://www.bloter.net/archives/379499
     
-      >-Title : 화웨이, 작년 IaaS 클라우드 200% 넘게 성장…세계 6위
+      >- Title : 화웨이, 작년 IaaS 클라우드 200% 넘게 성장…세계 6위
       >- keyword : AI, Iaas
       >- link : http://www.bloter.net/archives/379080
     
