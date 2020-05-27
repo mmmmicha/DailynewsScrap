@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.27
+      >- Title : 음식 낭비 막겠다는 스타트업에 투자가 몰리다
+      >- keyword : 식용코팅제, 스타트업
+      >- link : http://www.bloter.net/archives/382985
+    
       >- Title : 비대면 세탁 ‘런드리고’, 판교서도 서비스 시작
       >- keyword : 비대면 세탁, 판교시작, 스타트업
       >- link : http://www.bloter.net/archives/383016
