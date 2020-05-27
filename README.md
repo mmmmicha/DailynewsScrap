@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.27
+      >- Title : [써보니] 나 대신 멍멍이 돌봐주는 로봇…’바램 펫 피트니스’ 사용기
+      >- keyword : 스타트업, 로봇, 인공지능, 반려동물
+      >- link : http://www.bloter.net/archives/382453
+    
       >- Title : 음식 낭비 막겠다는 스타트업에 투자가 몰리다
       >- keyword : 식용코팅제, 스타트업
       >- link : http://www.bloter.net/archives/382985
