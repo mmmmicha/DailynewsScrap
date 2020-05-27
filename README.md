@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.27
+      >- Title : 비대면 세탁 ‘런드리고’, 판교서도 서비스 시작
+      >- keyword : 비대면 세탁, 판교시작, 스타트업
+      >- link : http://www.bloter.net/archives/383016
+    
       >- Title : “세계 어디서나 통한다”…LG CNS, 블록체인 신분증 개발 추진
       >- keyword : 블록체인 신분증, 공인인증서 및 각종 인증서 대체기대, W3C적합규정 준수 목표
       >- link : http://www.bloter.net/archives/382850
