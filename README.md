@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.28
+      >- Title : 이마트24, 전국 46개 매장에 ‘쏘카존’ 설치
+      >- keyword : 스타트업, 쏘카, 카셰어링
+      >- link : http://www.bloter.net/archives/385479
+    
       >- Title : 코로나 직격탄 맞은 에어비앤비, ‘온라인 체험’에 숨통 트일까
       >- keyword : 1900명 해고, 코로나, 가상문화체험, 에어비앤비
       >- link : http://www.bloter.net/archives/383031
