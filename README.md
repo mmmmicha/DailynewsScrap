@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.28
+      >- Title : 집라인, 미국 내 최장거리 ‘의료용품 드론 배달’…’코로나 장기전’ 돌파구될까
+      >- keyword : 집라인, 드론, 코로나, 의료용품
+      >- link : http://www.bloter.net/archives/383693
+    
       >- Title : 이마트24, 전국 46개 매장에 ‘쏘카존’ 설치
       >- keyword : 스타트업, 쏘카, 카셰어링
       >- link : http://www.bloter.net/archives/385479
