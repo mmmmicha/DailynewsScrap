@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.28
+      >- Title : 코로나 직격탄 맞은 에어비앤비, ‘온라인 체험’에 숨통 트일까
+      >- keyword : 1900명 해고, 코로나, 가상문화체험, 에어비앤비
+      >- link : http://www.bloter.net/archives/383031
+    
       >- Title : 도커 컨테이너, ‘클라우드 네이티브’ 강조…MS 애저 연동 강화
       >- keyword : 도커, Ms, 애저연동
       >- link : http://www.bloter.net/archives/385457
