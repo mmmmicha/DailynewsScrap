@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.29
+      >- Title : “내 택배가 불안해”…쿠팡·마켓컬리 확진자 발생에 우려 ↑
+      >- keyword : 코로나, 딜리버리커머스, 쿠팡
+      >- link : http://www.bloter.net/archives/385559
+    
       >- Title : 네이버는 왜 웹툰 본사를 미국으로 옮길까
       >- keyword : 네이버웹툰, 글로벌웹툰
       >- link : http://www.bloter.net/archives/385657
