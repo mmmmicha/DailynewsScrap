@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.05.29
+      >- Title : 잘 나가는 기업 CEO는 조직을 이렇게 운영합니다
+      >- keyword : 최고급인재관리, 애자일, 긱 이코노미
+      >- link : https://m.post.naver.com/viewer/postView.nhn?volumeNo=27229733&memberNo=39989806&utm_source=dable&utm_medium=cpc&utm_campaign=190828%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EC%BA%A0%ED%8E%98%EC%9D%B8_%EC%A1%B0%EC%A7%81%EC%9A%B4&utm_content=190828%20%EC%BA%A0%ED%8E%98%EC%9D%B8%20%EC%A1%B0%EC%A7%81%EC%9A%B4%EC%98%81_1
+    
       >- Title : “내 택배가 불안해”…쿠팡·마켓컬리 확진자 발생에 우려 ↑
       >- keyword : 코로나, 딜리버리커머스, 쿠팡
       >- link : http://www.bloter.net/archives/385559
