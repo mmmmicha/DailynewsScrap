@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.01
+      >- Title : 첫 온라인 ‘삼성고시’에 엇갈리는 평가…“앞으로도 계속”
+      >- keyword : GSAT, 비대면채용, 삼성
+      >- link : http://www.bloter.net/archives/386035
+    
       >- Title : 민간 우주탐사 시대 열렸다…스페이스X 유인우주선, 발사 19시간 만에 도킹 성공
       >- keyword : 도킹성공, 민간유인우주선
       >- link : http://www.bloter.net/archives/386064
