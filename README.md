@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.01
+      >- Title : 민간 우주탐사 시대 열렸다…스페이스X 유인우주선, 발사 19시간 만에 도킹 성공
+      >- keyword : 도킹성공, 민간유인우주선
+      >- link : http://www.bloter.net/archives/386064
+      
       >- Title : “인공지능이 뉴스 편집”…마이크로소프트, 기자 50명 해고
       >- keyword : 인공지능저널, MS, 50명 해고
       >- link : http://www.bloter.net/archives/386076
