@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.01
+      >- Title : 구글, 3일 예정됐던 안드로이드11 정식 공개 ‘연기’
+      >- keyword : 구글, 안드로이드11
+      >- link : http://www.bloter.net/archives/386066
+    
       >- Title : ‘금융업이 뒤집힌다’…국내 핀테크 시장 트렌드 TOP3
       >- keyword : 테크핀, 핀테크
       >- link : http://www.bloter.net/archives/385980
