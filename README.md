@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.01
+      >- Title : ‘금융업이 뒤집힌다’…국내 핀테크 시장 트렌드 TOP3
+      >- keyword : 테크핀, 핀테크
+      >- link : http://www.bloter.net/archives/385980
+      
       >- Title : 첫 온라인 ‘삼성고시’에 엇갈리는 평가…“앞으로도 계속”
       >- keyword : GSAT, 비대면채용, 삼성
       >- link : http://www.bloter.net/archives/386035
