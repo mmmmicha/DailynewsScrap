@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.02
+      >- Title : 코로나19 국면 랜섬웨어 기승…업무용 SW, 게임 파일로 위장 주의
+      >- keyword : V3, 랜섬웨어, 블루크랩
+      >- link : http://www.bloter.net/archives/386209
+    
       >- Title : “왜 트위터처럼 못해?”…침묵하는 페이스북에 직원들 뿔났다
       >- keyword : 도널드 트럼프, 마크 주커버그, 페이스북
       >- link : http://www.bloter.net/archives/386317
