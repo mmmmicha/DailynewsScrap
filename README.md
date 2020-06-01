@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.02
+      >- Title : 데이터센터 위탁 에퀴닉스, 캐나다 13개 센터 9천억원에 인수
+      >- keyword : 데이터센터, 리츠, 에퀴닉스
+      >- link : http://www.bloter.net/archives/386316
+    
       >- Title : 안드로이드에 방해금지 기능 추가됐다
       >- keyword : 안드로이드, 방해금지기능, 수면
       >- link : http://www.bloter.net/archives/386312
