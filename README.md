@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.04
+      >- Title : AI 기반 기술인력 채용 플랫폼 ‘스킬질라’, 퓨처플레이 투자 유치
+      >- keyword : AI스타트업, 구인구직플랫폼, 스킬질라, 인공지능
+      >- link : http://www.bloter.net/archives/386396
+    
       >- Title : 페이스북, 과거 콘텐츠 삭제 ‘더 쉽게’
       >- keyword : 페이스북, 콘텐츠삭제, 사생활
       >- link : http://www.bloter.net/archives/386532
