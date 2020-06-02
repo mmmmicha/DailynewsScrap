@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.04
+      >- Title : 페이스북, 과거 콘텐츠 삭제 ‘더 쉽게’
+      >- keyword : 페이스북, 콘텐츠삭제, 사생활
+      >- link : http://www.bloter.net/archives/386532
+    
       >- Title : “내버려 두는 것이 옳다”…트럼프 손 들어준 저커버그, 내외부 반발 확산
       >- keyword : 페이스북, 조지플루이드, 트럼프
       >- link : http://www.bloter.net/archives/386544
