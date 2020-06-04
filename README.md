@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.05
+      >- Title : “월급은 사장님이? 이젠 AI가 준다!” LG CNS, AI+RPA 자동 급여이체 서비스 개발
+      >- keyword : LG CNS, RPA, 인공지능
+      >- link : http://www.bloter.net/archives/387706
+    
       >- Title : 시각장애인을 위한 ‘AI 눈’ 마이아이 2.0 국내 공개
       >- keyword : OCR, 시각보조도구, 시각장애인
       >- link : http://www.bloter.net/archives/387736
