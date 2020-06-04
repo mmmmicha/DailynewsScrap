@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.05
+      >- Title : 시각장애인을 위한 ‘AI 눈’ 마이아이 2.0 국내 공개
+      >- keyword : OCR, 시각보조도구, 시각장애인
+      >- link : http://www.bloter.net/archives/387736
+    
       >- Title : 인천공항서 여의도 20분 만에…2025년 ‘드론택시’ 뜰까
       >- keyword : UAM, 국토부, 드론 택시, 모빌리티
       >- link : http://www.bloter.net/archives/387720
