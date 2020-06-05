@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.05
+      >- Title : SKT, AWS와 함께 5G 엣지 클라우드 연내 상용화
+      >- keyword : 5G MEC, 5G 엣지 클라우드, AWS
+      >- link : http://www.bloter.net/archives/380624
+    
       >- Title : IBM-레드햇, 쿠버네티스 기반 엣지컴퓨팅 관리 플랫폼 전진배치
       >- keyword : 엣지컴퓨팅
       >- link : http://www.bloter.net/archives/379916
