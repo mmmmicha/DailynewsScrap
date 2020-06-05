@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.05
+      >- Title : IBM-레드햇, 쿠버네티스 기반 엣지컴퓨팅 관리 플랫폼 전진배치
+      >- keyword : 엣지컴퓨팅
+      >- link : http://www.bloter.net/archives/379916
+    
       >- Title : “월급은 사장님이? 이젠 AI가 준다!” LG CNS, AI+RPA 자동 급여이체 서비스 개발
       >- keyword : LG CNS, RPA, 인공지능
       >- link : http://www.bloter.net/archives/387706
