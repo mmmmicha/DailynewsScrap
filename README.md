@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.07
+      >- Title : [테크핀X잡] ① 쾌속질주하는 유니콘 ‘토스’ 비바리퍼블리카
+      >- keyword : 비바리퍼블리카, 테크핀, 토스, 유니콘
+      >- link : http://www.bloter.net/archives/388043
+    
       >- Title : SKT가 의료장비 시장에 진출하는 이유
       >- keyword : 나노엑스, SKT, 반도체
       >- link : http://www.bloter.net/archives/387839
