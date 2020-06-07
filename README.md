@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.07
+      >- Title : ‘세계의 왕따’ 화웨이 5G…LG유플러스 ‘난감하네’
+      >- keyword : 5G, LG유플러스, 화웨이
+      >- link : http://www.bloter.net/archives/387923
+    
       >- Title : [테크핀X잡] ① 쾌속질주하는 유니콘 ‘토스’ 비바리퍼블리카
       >- keyword : 비바리퍼블리카, 테크핀, 토스, 유니콘
       >- link : http://www.bloter.net/archives/388043
