@@ -2,6 +2,11 @@
 
   - 매일매일 IT 뉴스 스크랩하기
   
+    - 2020.06.07
+      >- Title : SKT가 의료장비 시장에 진출하는 이유
+      >- keyword : 나노엑스, SKT, 반도체
+      >- link : http://www.bloter.net/archives/387839
+  
     - 2020.06.05
       >- Title : SKT, AWS와 함께 5G 엣지 클라우드 연내 상용화
       >- keyword : 5G MEC, 5G 엣지 클라우드, AWS
