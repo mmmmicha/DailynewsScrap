@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.08
+      >- Title : 파일만 열어도 감염…안랩 “학술 문서 위장한 악성코드 주의”
+      >- keyword : 악성코드, 안랩
+      >- link : http://www.bloter.net/archives/388265
+    
       >- Title : ‘편의점 도시락’ 드론이 배달한다…GS25, 제주서 8일 첫선
       >- keyword : GS리테일, 드론배달, 제주도
       >- link : http://www.bloter.net/archives/388255
