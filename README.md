@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.10
+      >- Title : 쇼핑몰 방문자 늘리려면…’검색엔진 최적화’는 필수
+      >- keyword : 검색엔진, seo
+      >- link : http://www.bloter.net/archives/382623
+    
       >- Title : “해킹 맞아?”…토스 범인은 왜 ‘비번’을 잘못 입력했나
       >- keyword : 토스, FDS고도화 필요, 개인정보유출
       >- link : http://www.bloter.net/archives/388476
