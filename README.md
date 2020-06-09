@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.10
+      >- Title : “해킹 맞아?”…토스 범인은 왜 ‘비번’을 잘못 입력했나
+      >- keyword : 토스, FDS고도화 필요, 개인정보유출
+      >- link : http://www.bloter.net/archives/388476
+    
       >- Title : 배달의민족, 앞으로 꼼수 못 부린다…’불공정 약관’ 시정
       >- keyword : 배달의민족, 공정위, 불공정 약관 시정
       >- link : http://www.bloter.net/archives/388530
