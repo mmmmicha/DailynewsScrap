@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.11
+      >- Title : 네이버·카카오 “‘커머스’ 쏠쏠하네”
+      >- keyword : e커머스, 네이버, 온라인쇼핑
+      >- link : http://www.bloter.net/archives/381276
+    
       >- Title : 네이버 QR코드로 전자출입명부 이용 가능
       >- keyword : 네이버, 전자출입명부, 코로나19
       >- link : http://www.bloter.net/archives/388617
