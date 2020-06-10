@@ -3,6 +3,10 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.11
+      >- Title : 네이버 QR코드로 전자출입명부 이용 가능
+      >- keyword : 네이버, 전자출입명부, 코로나19
+      >- link : http://www.bloter.net/archives/388617
+    
       >- Title : “기부의 선순환”…블록체인 기부 플랫폼 ‘체리’, 모금액 1억원 돌파
       >- keyword : 블록체인, 기부, 스타트업
       >- link : http://www.bloter.net/archives/388719
