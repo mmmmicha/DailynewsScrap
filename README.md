@@ -3,6 +3,9 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.12
+      >- Title : [스페이스X, 다음 달 한국군 통신위성 쏜다](http://www.bloter.net/archives/389711)
+      >- keyword : 스페이스X, 한국 차세대 스텔스기, 아나시스2호
+    
       >- Title : [“나만의 낚시 포인트, 제대로 기록해볼까?” 인포씨드 ‘지오픽’ 출시](http://www.bloter.net/archives/389568)
       >- keyword : 지오픽, 위치기록, 블록체인
     
