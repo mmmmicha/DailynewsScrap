@@ -3,6 +3,9 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.12
+      >- Title : [“나만의 낚시 포인트, 제대로 기록해볼까?” 인포씨드 ‘지오픽’ 출시](http://www.bloter.net/archives/389568)
+      >- keyword : 지오픽, 위치기록, 블록체인
+    
       >- Title : [자체 IP 늘리는 넷마블, ‘스톤에이지 월드’로 속도 낸다](http://www.bloter.net/archives/389585)
       >- keyword : 지식재산권(ip), 넷마블, 스톤에이지 월드
   
