@@ -3,6 +3,9 @@
   - 매일매일 IT 뉴스 스크랩하기
   
     - 2020.06.12
+      >- Title : [오픈스택, 엣지컴퓨팅 스택 ‘스탈링X’ 격상](http://www.bloter.net/archives/389717)
+      >- keyword : 엣지컴퓨팅, 오픈소스, OSF
+    
       >- Title : [스페이스X, 다음 달 한국군 통신위성 쏜다](http://www.bloter.net/archives/389711)
       >- keyword : 스페이스X, 한국 차세대 스텔스기, 아나시스2호
     
