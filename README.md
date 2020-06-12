@@ -4,7 +4,7 @@
   
     - 2020.06.12
       >- Title : [양자보안 스마트폰은 어떻게 만들어졌나](http://www.bloter.net/archives/389633)
-      >- keyword : QRNC칩셋, 양자난수생성, 양자보안
+      >- keyword : `QRNC칩셋`, `양자난수생성`, `양자보안`
     
       >- Title : [오픈스택, 엣지컴퓨팅 스택 ‘스탈링X’ 격상](http://www.bloter.net/archives/389717)
       >- keyword : 엣지컴퓨팅, 오픈소스, OSF
