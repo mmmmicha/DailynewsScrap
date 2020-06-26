@@ -5,7 +5,7 @@
     - [2020년_5월](https://github.com/wjdrhkd456/Dailynews_Scrap/blob/master/2020%EB%85%84_5%EC%9B%94.md)
     - [2020년_4월](https://github.com/wjdrhkd456/Dailynews_Scrap/blob/master/2020%EB%85%84_4%EC%9B%94.md)
     
-  - `2020년_6월`
+    ## 2020년_6월
     
     - 2020.06.26
       >- Title : [KT, 르노삼성에 차세대 커넥티드카 서비스 공급](http://www.bloter.net/archives/392170)
