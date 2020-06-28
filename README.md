@@ -8,6 +8,9 @@
     ## 2020년_6월
     
     - 2020.06.29
+      >- Title : [판교 ‘스마트 오피스’ 연 쿠팡, 개발자 채용에 보너스 ‘5000만원+@’](http://www.bloter.net/archives/392423)
+      >- keyword : `쿠팡`, `스마트오피스`, `경력직채용`
+    
       >- Title : [내년 R&D 예산 21조…‘DNA 및 소부장’ 등에 집중](http://www.bloter.net/archives/392524)
       >- keyword : `DNA(Data, Network, AI)`, `한국판뉴딜`
     
