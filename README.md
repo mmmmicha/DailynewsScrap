@@ -8,6 +8,9 @@
     ## 2020년_6월
     
     - 2020.06.29
+      >- Title : [내년 R&D 예산 21조…‘DNA 및 소부장’ 등에 집중](http://www.bloter.net/archives/392524)
+      >- keyword : `DNA(Data, Network, AI)`, `한국판뉴딜`
+    
       >- Title : [인터넷 문화 경종 울린 카카오…’아동 성범죄·성착취 무관용’ 최초로 못 박았다](http://www.bloter.net/archives/392427)
       >- keyword : `카카오`, `디지털성범죄조항`, `아동성범죄조항`
     
