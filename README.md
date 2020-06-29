@@ -8,6 +8,9 @@
     ## 2020년_6월
     
     - 2020.06.30
+      >- Title : [내 금융정보, 마음대로 옮기고 쓴다… 마이데이터 도입 ‘초읽기’](http://www.bloter.net/archives/392776)
+      >- keyword : `데이터3법`, `마이데이터`, `금융통합`
+    
       >- Title : [CU 편의점, 어도비 애널리틱스로 데이터 기반 고객 소비패턴 분석](http://www.bloter.net/archives/392746)
       >- keyword : `CU편의점`, `어도비애널리틱스`
     
