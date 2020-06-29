@@ -8,6 +8,9 @@
     ## 2020년_6월
     
     - 2020.06.30
+      >- Title : [CU 편의점, 어도비 애널리틱스로 데이터 기반 고객 소비패턴 분석](http://www.bloter.net/archives/392746)
+      >- keyword : `CU편의점`, `어도비애널리틱스`
+    
       >- Title : [“이젠 대기업도 뛰어든다”…블록체인 ‘지갑’ 서비스](http://www.bloter.net/archives/392828)
       >- keyword : `가상자산`, `라인`, `밀크`
     
