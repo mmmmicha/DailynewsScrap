@@ -8,6 +8,9 @@
     ## 2020년_6월
     
     - 2020.06.30
+      >- Title : [포스트코로나 시대 게임 전시회는 어떻게 열릴까](http://www.bloter.net/archives/392728)
+      >- keyword : `5G`, `클라우드게임`, `GEFORCE NOW`
+    
       >- Title : [내 금융정보, 마음대로 옮기고 쓴다… 마이데이터 도입 ‘초읽기’](http://www.bloter.net/archives/392776)
       >- keyword : `데이터3법`, `마이데이터`, `금융통합`
     
