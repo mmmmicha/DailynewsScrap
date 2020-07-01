@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.02
+      >- Title : [블록체인 기술 기업 투자 트렌드 ‘선택과 집중’](http://www.bloter.net/archives/393259)
+      >- keyword : `블록체인`, `블록체인투자`, `트렌드`
+    
       >- Title : [구글, 안드로이드판 ‘에어드롭’ 베타테스트 시작](http://www.bloter.net/archives/393462)
       >- keyword : `구글`, `에어드롭`, `블루투스통신`
     
