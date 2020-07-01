@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.02
+      >- Title : [구글, 안드로이드판 ‘에어드롭’ 베타테스트 시작](http://www.bloter.net/archives/393462)
+      >- keyword : `구글`, `에어드롭`, `블루투스통신`
+    
       >- Title : [구글, 자동 삭제 등 프라이버시 보호 기능 강화](http://www.bloter.net/archives/393343)
       >- keyword : `구글`, `프라이버시정책`, `사용자우선`
     
