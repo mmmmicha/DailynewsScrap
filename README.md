@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.02
+      >- Title : [화웨이 회장 “5G가 팬데믹 이후 디지털 전환 촉발할 것”](http://www.bloter.net/archives/393278)
+      >- keyword : `5G`, `화웨이`, `펜데믹`
+    
       >- Title : [블록체인 기술 기업 투자 트렌드 ‘선택과 집중’](http://www.bloter.net/archives/393259)
       >- keyword : `블록체인`, `블록체인투자`, `트렌드`
     
