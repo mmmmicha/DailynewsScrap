@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.03
+      >- Title : [Google 모빌리티 데이터로 보는 코로나 이후의 유동인구 변화](http://www.bloter.net/archives/393392)
+      >- keyword : `구글`, `구글모빌리티`, `펜데믹`
+    
       >- Title : [쏘카, 9년 만에 600만 회원 돌파…업계 최초](http://www.bloter.net/archives/393566)
       >- keyword : `쏘카`, `쏘카패스`
       
