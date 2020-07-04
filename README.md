@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.04
+      >- Title : [메모리 용량 1천배 높일 이론 나왔다](http://www.bloter.net/archives/393811)
+      >- keyword : `UNIST`, `과기정통부`, `메모리`
+    
     - 2020.07.03
       >- Title : [Google 모빌리티 데이터로 보는 코로나 이후의 유동인구 변화](http://www.bloter.net/archives/393392)
       >- keyword : `구글`, `구글모빌리티`, `펜데믹`
