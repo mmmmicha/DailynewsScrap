@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.06
+      >- Title : [SKT, 월 구독형 5G 스마트팩토리 출시…6개월 무료 체험](http://www.bloter.net/archives/393902)
+      >- keyword : `5G`, `스마트팩토리`, `클라우드`, `빅데이터`
+    
     - 2020.07.05
       >- Title : [댓글창 없애고 AI 활용까지…‘악플과의 전쟁’ 나선 포털](http://www.bloter.net/archives/393951)
       >- keyword : `네이버`, `카카오`, `댓글`, `AI`
