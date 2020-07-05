@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.05
+      >- Title : [댓글창 없애고 AI 활용까지…‘악플과의 전쟁’ 나선 포털](http://www.bloter.net/archives/393951)
+      >- keyword : `네이버`, `카카오`, `댓글`, `AI`
+    
     - 2020.07.04
       >- Title : [메모리 용량 1천배 높일 이론 나왔다](http://www.bloter.net/archives/393811)
       >- keyword : `UNIST`, `과기정통부`, `메모리`
