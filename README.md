@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.06
+      >- Title : [네이버 커넥트재단 “디지털 소외 없는, 모두를 위한 SW·AI교육 앞장서겠다”](http://www.bloter.net/archives/393838)
+      >- keyword : `네이버`, `네이버커넥트제단`
+    
       >- Title : [SKT, 월 구독형 5G 스마트팩토리 출시…6개월 무료 체험](http://www.bloter.net/archives/393902)
       >- keyword : `5G`, `스마트팩토리`, `클라우드`, `빅데이터`
     
