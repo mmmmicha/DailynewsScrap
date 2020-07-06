@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.07
+      >- Title : [“고의성만 없으면 OK”…토스, ‘고객피해 전액 책임제’ 첫발](http://www.bloter.net/archives/394140)
+      >- keyword : `간편결제`, `금융사고`, `명의도용사고`
+    
       >- Title : [국회 찾은 네이버·카카오 대표 “해외 플랫폼도 똑같이 규제해달라”](http://www.bloter.net/archives/394130)
       >- keyword : `네이버`, `카카오`
     
