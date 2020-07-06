@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.07
+      >- Title : [“사내 벤처서 미래 찾자”…이재용, C랩 도전정신 강조](http://www.bloter.net/archives/394135)
+      >- keyword : `C랩`, `삼성전자`
+    
       >- Title : [“고의성만 없으면 OK”…토스, ‘고객피해 전액 책임제’ 첫발](http://www.bloter.net/archives/394140)
       >- keyword : `간편결제`, `금융사고`, `명의도용사고`
     
