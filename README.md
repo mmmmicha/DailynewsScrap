@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.08
+      >- Title : [카카오뱅크 ‘오픈뱅킹’ 열렸다](http://www.bloter.net/archives/394346)
+      >- keyword : `오픈뱅킹`, `카카오`, `카카오뱅크`
+    
       >- Title : [카이스트, ‘양자AI 알고리즘’ 개발.. “기존 AI 뛰어넘을 것”](http://www.bloter.net/archives/394309)
       >- keyword : `ai`, `인공지능`, `양자컴퓨터`
     
