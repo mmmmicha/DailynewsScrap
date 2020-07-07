@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.07
+      >- Title : [‘Top500’ 슈퍼컴퓨터 1-3위 운영체제, 레드햇이 ‘싹쓸이’](http://www.bloter.net/archives/394109)
+      >- keyword : `top500`, `레드햇`, `엔터프라이즈리눅스`
+      
       >- Title : [“사내 벤처서 미래 찾자”…이재용, C랩 도전정신 강조](http://www.bloter.net/archives/394135)
       >- keyword : `C랩`, `삼성전자`
     
