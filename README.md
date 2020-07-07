@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.08
+      >- Title : [카이스트, ‘양자AI 알고리즘’ 개발.. “기존 AI 뛰어넘을 것”](http://www.bloter.net/archives/394309)
+      >- keyword : `ai`, `인공지능`, `양자컴퓨터`
+    
     - 2020.07.07
       >- Title : [‘Top500’ 슈퍼컴퓨터 1-3위 운영체제, 레드햇이 ‘싹쓸이’](http://www.bloter.net/archives/394109)
       >- keyword : `top500`, `레드햇`, `엔터프라이즈리눅스`
