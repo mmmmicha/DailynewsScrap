@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.08
+      >- Title : [구글의 ‘풍선 인터넷’ 룬 프로젝트, 케냐에서 성공적으로 가동](http://www.bloter.net/archives/394490)
+      >- keyword : `구글`, `룬프로젝트`, `알파벳`
+    
       >- Title : [카카오뱅크 ‘오픈뱅킹’ 열렸다](http://www.bloter.net/archives/394346)
       >- keyword : `오픈뱅킹`, `카카오`, `카카오뱅크`
     
