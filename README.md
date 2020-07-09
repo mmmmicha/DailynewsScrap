@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.10
+      >- Title : [메신저는 ‘카톡’, 포털⋅SNS⋅지도는 ‘네이버’](http://www.bloter.net/archives/394892)
+      >- keyword : `카카오톡`, `네이버지도`, `네이버웹툰`
+    
       >- Title : [‘8개의 미래·한국판 SF’는 어떻게 ‘웨이브’와 손 잡았나](http://www.bloter.net/archives/394975)
       >- keyword : `웨이브`, `자체제작`, `OTT`
     
