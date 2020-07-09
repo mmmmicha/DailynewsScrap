@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.10
+      >- Title : [‘8개의 미래·한국판 SF’는 어떻게 ‘웨이브’와 손 잡았나](http://www.bloter.net/archives/394975)
+      >- keyword : `웨이브`, `자체제작`, `OTT`
+    
       >- Title : [쿠팡은 ‘쿠팡페이’를 ‘한국판 알리페이’로 키울까](http://www.bloter.net/archives/394992)
       >- keyword : `쿠팡페이`, `핀테크`, `아마존페이`
     
