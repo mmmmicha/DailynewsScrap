@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.10
+      >- Title : [‘토큰세트’ 개발사 세트랩스, 해시드 시드투자 유치](http://www.bloter.net/archives/394930)
+      >- keyword : `블록체인`, `실리콘밸리`, `세트랩스`
+    
       >- Title : [메신저는 ‘카톡’, 포털⋅SNS⋅지도는 ‘네이버’](http://www.bloter.net/archives/394892)
       >- keyword : `카카오톡`, `네이버지도`, `네이버웹툰`
     
