@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.10
+      >- Title : [“1년간 수수료 대납하겠다”…클레이튼 메인넷 1주년](http://www.bloter.net/archives/394842)
+      >- keyword : `그라운드X`, `블록체인`, `카카오`
+    
       >- Title : [오라클 2세대 클라우드 서비스 출시 “삼성SDS 등 고객 데이터센터서 이용”](http://www.bloter.net/archives/394897)
       >- keyword : `오라클`, `클라우드서비스`
     
