@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.10
+      >- Title : [오라클 2세대 클라우드 서비스 출시 “삼성SDS 등 고객 데이터센터서 이용”](http://www.bloter.net/archives/394897)
+      >- keyword : `오라클`, `클라우드서비스`
+    
       >- Title : [‘토큰세트’ 개발사 세트랩스, 해시드 시드투자 유치](http://www.bloter.net/archives/394930)
       >- keyword : `블록체인`, `실리콘밸리`, `세트랩스`
     
