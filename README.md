@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.13
+      >- Title : [엘론 머스크 “올해 내 5단계 자율주행 기본기능 완성된다”](http://www.bloter.net/archives/395210)
+      >- keyword : `테슬라`, `자율주행` ,`5단계`
+    
       >- Title : [**Why** 조금 이상한 토큰 스테이킹 프로그램 ‘밀크팩’](http://www.bloter.net/archives/395252)
       >- keyword : `밀크코인`, `블록체인`, `밀크파트너스`
     
