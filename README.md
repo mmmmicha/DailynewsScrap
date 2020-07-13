@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.14
+      >- Title : [“마스터, 슬레이브” 안됩니다…IT업계 인종차별적 용어 ‘퇴출’ 움직임](http://www.bloter.net/archives/395447)
+      >- keyword : `BlackLivesMatter`, `마스터`, `슬레이브`
+    
       >- Title : [전원 없이도 통신….초저전력 사물인터넷(IoT) 기술 개발](http://www.bloter.net/archives/395492)
       >- keyword : `IoT`, `후방산란`, `와이파이전파`
     
