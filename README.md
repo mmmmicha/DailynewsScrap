@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.14
+      >- Title : [‘진짜 5G’ 28GHz 5G폰 출시 빨라진다…”전자파 측정시간 대폭 단축”](http://www.bloter.net/archives/395385)
+      >- keyword : `5G`, `전자파`
+    
       >- Title : [‘재택·원격근무 늘어나는데’…기업 자료 유출 위험 ‘심각’](http://www.bloter.net/archives/395485)
       >- keyword : `원격근무`, `이스트시큐리티`, `보안`
     
