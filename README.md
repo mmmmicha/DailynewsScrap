@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.14
+      >- Title : [이글루시큐리티, 코로나19 의료진 응원하는 ‘덕분에 챌린지’ 동참](http://www.bloter.net/archives/395540)
+      >- keyword : `덕분에챌린지`, `이글루시큐리티`, `코로나19`
+    
       >- Title : [“마스터, 슬레이브” 안됩니다…IT업계 인종차별적 용어 ‘퇴출’ 움직임](http://www.bloter.net/archives/395447)
       >- keyword : `BlackLivesMatter`, `마스터`, `슬레이브`
     
