@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.14
+      >- Title : [전원 없이도 통신….초저전력 사물인터넷(IoT) 기술 개발](http://www.bloter.net/archives/395492)
+      >- keyword : `IoT`, `후방산란`, `와이파이전파`
+    
     - 2020.07.13
       >- Title : [‘제2의 싸이월드 사태’ 막을 수 있을까](http://www.bloter.net/archives/395227)
       >- keyword : `백업`, `싸이월드`, `백업할권리`
