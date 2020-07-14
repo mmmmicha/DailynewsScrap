@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.15
+      >- Title : [부릉, 현대자동차 물류 솔루션 개발한다](http://www.bloter.net/archives/395642)
+      >- keyword : `현대자동차`, `메쉬코리아`, `물류솔루션`
+    
       >- Title : [쿠팡 정보람 전 대표이사, 아이디어스行](http://www.bloter.net/archives/395654)
       >- keyword : `백패커`, `아이디어스`, `쿠팡`
     
