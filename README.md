@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.15
+      >- Title : [“주차장을 모빌리티 허브로” 마카롱・그린카・아이파킹 뭉쳤다](http://www.bloter.net/archives/395623)
+      >- keyword : `KST모빌리티`, `그린카`, `마카롱택시`
+    
       >- Title : [부릉, 현대자동차 물류 솔루션 개발한다](http://www.bloter.net/archives/395642)
       >- keyword : `현대자동차`, `메쉬코리아`, `물류솔루션`
     
