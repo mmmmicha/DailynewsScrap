@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.15
+      >- Title : [쿠팡 정보람 전 대표이사, 아이디어스行](http://www.bloter.net/archives/395654)
+      >- keyword : `백패커`, `아이디어스`, `쿠팡`
+    
       >- Title : [넥슨컴퓨터박물관, SKT와 VR·AR 콘텐츠 공모전 연다](http://www.bloter.net/archives/395668)
       >- keyword : `AR`, `VR`, `MR`
     
