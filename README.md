@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.15
+      >- Title : [넥슨컴퓨터박물관, SKT와 VR·AR 콘텐츠 공모전 연다](http://www.bloter.net/archives/395668)
+      >- keyword : `AR`, `VR`, `MR`
+    
       >- Title : [코로나 후 결제시장 비대면·간편결제로 이동… 한국은행 발표](http://www.bloter.net/archives/395743)
       >- keyword : `간편결제`, `비대면`, `펜데믹`
     
