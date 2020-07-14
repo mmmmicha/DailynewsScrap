@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.15
+      >- Title : [삼성전자, “6G 시대 주도하겠다”](http://www.bloter.net/archives/395783)
+      >- keyword : `6G`, `2030년`, `삼성전자`
+    
     - 2020.07.14
       >- Title : [‘진짜 5G’ 28GHz 5G폰 출시 빨라진다…”전자파 측정시간 대폭 단축”](http://www.bloter.net/archives/395385)
       >- keyword : `5G`, `전자파`
