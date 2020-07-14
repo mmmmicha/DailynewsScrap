@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.15
+      >- Title : [코로나 후 결제시장 비대면·간편결제로 이동… 한국은행 발표](http://www.bloter.net/archives/395743)
+      >- keyword : `간편결제`, `비대면`, `펜데믹`
+    
       >- Title : [삼성전자, “6G 시대 주도하겠다”](http://www.bloter.net/archives/395783)
       >- keyword : `6G`, `2030년`, `삼성전자`
     
