@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.16
+      >- Title : [구글 클라우드, 빅쿼리·메모리 암호화 솔루션 공개](http://www.bloter.net/archives/395879)
+      >- keyword : `구글클라우드`, `크롬`
+    
       >- Title : [한컴의 첫 개방형 OS ‘한컴구름’ 일반에 무료 배포](http://www.bloter.net/archives/395885)
       >- keyword : `DaaS`, `개방형OS`, `한컴`
     
