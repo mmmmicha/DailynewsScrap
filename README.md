@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.16
+      >- Title : [한컴의 첫 개방형 OS ‘한컴구름’ 일반에 무료 배포](http://www.bloter.net/archives/395885)
+      >- keyword : `DaaS`, `개방형OS`, `한컴`
+    
       >- Title : [애플도 머스크도 당했다…대대적인 트위터 계정 해킹 발생](http://www.bloter.net/archives/395940)
       >- keyword : `해킹`, `블록체인`, `트위터`
     
