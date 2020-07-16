@@ -7,6 +7,16 @@
     
     ## 2020년_7월
     
+    - 2020.07.17
+      >- Title : [중기부가 뽑은 15개 ‘예비유니콘’ 보니](http://www.bloter.net/archives/395968)
+      >- keyword : `예비유니콘`, `중기부`
+    
+      >- Title : [“퀄컴 스냅드래곤 새 칩, 삼성 파운드리에서 만든다”](http://www.bloter.net/archives/396138)
+      >- keyword : `삼성전자`, `스냅드래곤875G`, `퀄컴`
+    
+      >- Title : [‘한때 국민메신저’ 네이트온, 업무용 탈바꿈한다](http://www.bloter.net/archives/396001)
+      >- keyword : `SK컴즈`, `네이트온`, `메신저`
+    
     - 2020.07.16
       >- Title : [페이스북, ‘공식 뮤직비디오’ 서비스 준비](http://www.bloter.net/archives/395789)
       >- keyword : `뮤직비디오`, `페이스북`, `콘텐츠`
