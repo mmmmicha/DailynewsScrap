@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.17
+      >- Title : [“디파이 구축도 클라우드로”…델리오 클라우드 개시](http://www.bloter.net/archives/396125)
+      >- keyword : `델리오`, `디파이`, `델리오클라우드`
+    
       >- Title : [중기부가 뽑은 15개 ‘예비유니콘’ 보니](http://www.bloter.net/archives/395968)
       >- keyword : `예비유니콘`, `중기부`
     
