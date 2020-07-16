@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.17
+      >- Title : [IBM 클라우드 포럼, 기업에 뉴노멀 시대 대비하는 지속가능 방안 제시](http://www.bloter.net/archives/396002)
+      >- keyword : `IBM`, `클라우드`
+    
       >- Title : [네이버, ‘베트남 카이스트’와 맞손…AI 연구벨트 조성](http://www.bloter.net/archives/395991)
       >- keyword : `네이버`, `베트남카이스트`, `AI연구벨트`
     
