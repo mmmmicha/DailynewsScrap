@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.17
+      >- Title : [KT, 글로벌 통신사와 함께 5G MEC 기술 개발](http://www.bloter.net/archives/396069)
+      >- keyword : `5G MEC`, `5G 퓨처포럼`, `KT`
+    
       >- Title : [“입술과 표정 볼 수 있도록”…11번가, 청각장애인 위한 ‘립뷰마스크’ 후원](http://www.bloter.net/archives/396077)
       >- keyword : `11번가`, `립뷰마스크`, `사랑의달팽이`
     
