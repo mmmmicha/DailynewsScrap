@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.17
+      >- Title : [네이버, ‘베트남 카이스트’와 맞손…AI 연구벨트 조성](http://www.bloter.net/archives/395991)
+      >- keyword : `네이버`, `베트남카이스트`, `AI연구벨트`
+    
       >- Title : [KT, 글로벌 통신사와 함께 5G MEC 기술 개발](http://www.bloter.net/archives/396069)
       >- keyword : `5G MEC`, `5G 퓨처포럼`, `KT`
     
