@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.20
+      >- Title : [http://www.bloter.net/archives/396393](http://www.bloter.net/archives/396393)
+      >- keyword : `멀웨어`, `보안`, `안드로이드`
+    
     - 2020.07.18
       >- Title : [“블록체인으로 정품 인증, 복제도 불가”…탑스 GPK 디지털카드 24만장 판매돼](http://www.bloter.net/archives/396170)
       >- keyword : `블록체인`, `블록체인NFT`
