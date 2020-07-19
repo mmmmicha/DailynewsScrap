@@ -9,7 +9,7 @@
     
     - 2020.07.18
       >- Title : [“블록체인으로 정품 인증, 복제도 불가”…탑스 GPK 디지털카드 24만장 판매돼](http://www.bloter.net/archives/396170)
-
+      >- keyword : `블록체인`, `블록체인NFT`
 
     - 2020.07.17
       >- Title : [IBM 클라우드 포럼, 기업에 뉴노멀 시대 대비하는 지속가능 방안 제시](http://www.bloter.net/archives/396002)
