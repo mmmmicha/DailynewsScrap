@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.22
+      >- Title : [애플 “10년내 제품·공급망 친환경에너지 100% 구현” SK하이닉스-대상 참여](http://www.bloter.net/archives/396781)
+      >- keyword : `애플`, `친환경에너지`, `탄소중립`
+    
     - 2020.07.20
       >- Title : [http://www.bloter.net/archives/396393](http://www.bloter.net/archives/396393)
       >- keyword : `멀웨어`, `보안`, `안드로이드`
