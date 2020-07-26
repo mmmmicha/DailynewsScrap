@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.27
+      >- Title : [“DID가 뭐야?” 람다256, 무료 웨비나 개최](http://www.bloter.net/archives/397377)
+      >- keyword : `DID`, `람다256`, `모바일신분증`
+    
       >- Title : [공공 와이파이 빨라진다…연말까지 1만8천개 교체](http://www.bloter.net/archives/397493)
       >- keyword : `과기정통부`, `공공와이파이`, `디지털뉴딜`
     
