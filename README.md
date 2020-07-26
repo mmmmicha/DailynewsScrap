@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.27
+      >- Title : [랜섬웨어 공격에…가민 웨어러블 먹통사태](http://www.bloter.net/archives/397543)
+      >- keyword : `가민`, `랜섬웨어`, `보안`
+    
       >- Title : [삼성SDS, 2Q 영업익 1967억원…24%↓ ‘그래도 물류가 살렸다’](http://www.bloter.net/archives/397320)
       >- keyword : `물류BPO`, `삼성sds`, `실적`
     
