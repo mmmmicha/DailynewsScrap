@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.27
+      >- Title : [삼성SDS, 2Q 영업익 1967억원…24%↓ ‘그래도 물류가 살렸다’](http://www.bloter.net/archives/397320)
+      >- keyword : `물류BPO`, `삼성sds`, `실적`
+    
     - 2020.07.26
       >- Title : [버스 말고 바스(BaaS), 서비스형 블록체인이 큰다](http://www.bloter.net/archives/397462)
       >- keyword : `BaaS`, `클라우드`, `람다256`
