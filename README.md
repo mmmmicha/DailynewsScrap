@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.26
+      >- Title : [버스 말고 바스(BaaS), 서비스형 블록체인이 큰다](http://www.bloter.net/archives/397462)
+      >- keyword : `BaaS`, `클라우드`, `람다256`
+    
     - 2020.07.24
       >- Title : [‘생방송’에 빠진 네이버…’셀렉티브’, ‘쇼핑라이브’로 개편](http://www.bloter.net/archives/397076)
       >- keyword : `네이버`, `라이브커머스`, `라이브쇼핑`
