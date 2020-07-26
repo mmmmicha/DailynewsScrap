@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.27
+      >- Title : [공공 와이파이 빨라진다…연말까지 1만8천개 교체](http://www.bloter.net/archives/397493)
+      >- keyword : `과기정통부`, `공공와이파이`, `디지털뉴딜`
+    
       >- Title : [랜섬웨어 공격에…가민 웨어러블 먹통사태](http://www.bloter.net/archives/397543)
       >- keyword : `가민`, `랜섬웨어`, `보안`
     
