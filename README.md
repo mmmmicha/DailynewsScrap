@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.29
+      >- Title : [구글, 클라우드 승부수…뉴욕-유럽 잇는 해저케이블 추진](http://www.bloter.net/archives/398064)
+      >- keyword : `구글`, `클라우드`, `해저케이블`
+    
     - 2020.07.27
       >- Title : [“DID가 뭐야?” 람다256, 무료 웨비나 개최](http://www.bloter.net/archives/397377)
       >- keyword : `DID`, `람다256`, `모바일신분증`
