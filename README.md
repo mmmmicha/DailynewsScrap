@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.30
+      >- Title : [미술 작품 사이 미묘한 연결고리 찾아낸 MIT 인공지능](http://www.bloter.net/archives/398329)
+      >- keyword : `AI`, `MIT`, `인공지능`
+    
       >- Title : [인도, 중국산 앱에 ‘칼춤’…250개 추가 금지 검토](http://www.bloter.net/archives/398338)
       >- keyword : `인도`, `중국산앱금지`, `정보유출`
     
