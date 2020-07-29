@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.30
+      >- Title : [‘고요한 M’ SKT의 방식은 카카오와 닮은 듯 다르다](http://www.bloter.net/archives/398192)
+      >- keyword : `SKT`, ``, `고요한M`
+    
       >- Title : [미술 작품 사이 미묘한 연결고리 찾아낸 MIT 인공지능](http://www.bloter.net/archives/398329)
       >- keyword : `AI`, `MIT`, `인공지능`
     
