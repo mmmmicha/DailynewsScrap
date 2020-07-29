@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.30
+      >- Title : [증강현실로 쉽게 운전한다…U+카카오내비, ‘AR길안내’ 선보여](http://www.bloter.net/archives/398089)
+      >- keyword : `AR`, `LG유플러스`, `네비게이션`
+    
       >- Title : [‘고요한 M’ SKT의 방식은 카카오와 닮은 듯 다르다](http://www.bloter.net/archives/398192)
       >- keyword : `SKT`, ``, `고요한M`
     
