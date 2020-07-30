@@ -7,6 +7,10 @@
     
     ## 2020년_7월
     
+    - 2020.07.31
+      >- Title : [‘스마트스토어’가 네이버 성장동력…한성숙 “금융⋅B2B 연계”](http://www.bloter.net/archives/398449)
+      >- keyword : `스마트스토어`, `네이버`
+    
     - 2020.07.30
       >- Title : [쿠콘, 마이데이터 앞두고 통합금융 오픈API플랫폼 선보여](http://www.bloter.net/archives/398175)
       >- keyword : `마이데이터`, `오픈API`, `쿠콘`
