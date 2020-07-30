@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.31
+      >- Title : [크라우드웍스, 딥페이크 탐지용 AI 공공데이터 구축 사업자 선정](http://www.bloter.net/archives/398455)
+      >- keyword : `AI학습용데이터`, `크라우드웍스`, `딥페이크`
+    
       >- Title : [‘스마트스토어’가 네이버 성장동력…한성숙 “금융⋅B2B 연계”](http://www.bloter.net/archives/398449)
       >- keyword : `스마트스토어`, `네이버`
     
