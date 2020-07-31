@@ -8,6 +8,9 @@
     ## 2020년_7월
     
     - 2020.07.31
+      >- Title : [주니퍼 네트웍스, 4세대 AI 엔터프라이즈 발표](http://www.bloter.net/archives/398433)
+      >- keyword : `네트워킹`, `대화형 인터페이스`, `엔터프라이즈`
+    
       >- Title : [크라우드웍스, 딥페이크 탐지용 AI 공공데이터 구축 사업자 선정](http://www.bloter.net/archives/398455)
       >- keyword : `AI학습용데이터`, `크라우드웍스`, `딥페이크`
     
