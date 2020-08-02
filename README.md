@@ -9,5 +9,8 @@
     ## 2020년_8월
     
     - 2020.08.02
+      >- Title : [**넘버스** 네이버의 불안한 미래](http://www.bloter.net/archives/398683)
+      >- keyword : `커머스`, `네이버`
+    
       >- Title : [“2000억대 우체국금융서비스 잡아라”…대형 SI 3사, 경쟁 본격화](http://www.bloter.net/archives/398848)
       >- keyword : `우체국`, `대형SI`, `고도화`
