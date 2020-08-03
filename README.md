@@ -8,6 +8,10 @@
    
     ## 2020년_8월
     
+    - 2020.08.04
+      >- Title : [PG사업 뛰어든 토스, 돈으로 시간과 고객을 사는 이유](http://www.bloter.net/archives/398968)
+      >- keyword : `PG사업`, `토스`, `규모의경제`
+    
     - 2020.08.02
       >- Title : [**넘버스** 네이버의 불안한 미래](http://www.bloter.net/archives/398683)
       >- keyword : `커머스`, `네이버`
