@@ -10,7 +10,7 @@
     
     - 2020.08.04
       >- title : [“민간 우주탐사 시대 열렸다”…미 우주비행사, 스페이스X 캡슐로 해상 귀환](http://www.bloter.net/archives/398878)
-      >- keyword : `NASA`, `일론머스크`, `스페이스x`
+      >- keyword : `NASA`, `일론머스크`, `스페이스X`
     
       >- title : [구글 클라우드, 자동차 산업 디지털화에 팔 걷는다…르노와 파트너십](http://www.bloter.net/archives/398998)
       >- keyword : `구글클라우드`, `르노`
