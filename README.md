@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.04
+      >- title : [구글 클라우드, 자동차 산업 디지털화에 팔 걷는다…르노와 파트너십](http://www.bloter.net/archives/398998)
+      >- keyword : `구글클라우드`, `르노`
+    
       >- title : [네이버가 SM엔터 그룹에 1000억을 투자한 이유](http://www.bloter.net/archives/399010)
       >- keyword : `네이버`, `팬십`, `SM엔터테인먼트`
     
