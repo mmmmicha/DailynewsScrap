@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.05
+      >- title : [구글, 5G 픽셀폰 발표…한국은 제외](http://www.bloter.net/archives/399234)
+      >- keyword : `구글`, `픽셀폰`
+    
       >- title : [AI는 ‘신’이 될 수 있을까](http://www.bloter.net/archives/399161)
       >- keyword : `SF8`, `만신`, `웨이브`
     
