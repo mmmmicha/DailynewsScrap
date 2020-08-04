@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.05
+      >- title : [카카오, 다음 검색 최적화 돕는 ‘다음 웹마스터 도구 베타’ 공개](http://www.bloter.net/archives/399136)
+      >- keyword : `카카오`, `다음`, `다음웹마스터도구베타`
+    
       >- title : [구글, 5G 픽셀폰 발표…한국은 제외](http://www.bloter.net/archives/399234)
       >- keyword : `구글`, `픽셀폰`
     
