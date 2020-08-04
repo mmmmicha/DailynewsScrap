@@ -8,6 +8,10 @@
    
     ## 2020년_8월
     
+    - 2020.08.05
+      >- title : [AI는 ‘신’이 될 수 있을까](http://www.bloter.net/archives/399161)
+      >- keyword : `SF8`, `만신`, `웨이브`
+    
     - 2020.08.04
       >- title : [“민간 우주탐사 시대 열렸다”…미 우주비행사, 스페이스X 캡슐로 해상 귀환](http://www.bloter.net/archives/398878)
       >- keyword : `NASA`, `일론머스크`, `스페이스X`
