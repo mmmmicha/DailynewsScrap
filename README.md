@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.06
+      >- title : [폼페이오 막고·인스타그램 베끼고…미국발 ‘틱톡’ 수난시대](http://www.bloter.net/archives/399438)
+      >- keyword : `틱톡`, `인스타그램`, `개인정보유출`
+    
       >- title : [“수배협 주장, ‘왓챠’더러 OTT 버리고 IPTV 되란 것”](http://www.bloter.net/archives/399394)
       >- keyword : `OTT`, `수배협`, `왓챠`
     
