@@ -8,10 +8,14 @@
    
     ## 2020년_8월
     
-    - 2020.08.06
+    - 2020.08.07
+      >- title : [SKT, 2분기 영업이익 3595억…코로나19에도 방긋](http://www.bloter.net/archives/399505)
+      >- keyword : `SKT`
+      
       >- title : [토종 AI ‘엑소브레인’ 사전 분석 넘어 일상언어로 확대](http://www.bloter.net/archives/399455)
       >- keyword : `ETRI`, `엑소브레인`, `AI`
     
+    - 2020.08.06
       >- title : [폼페이오 막고·인스타그램 베끼고…미국발 ‘틱톡’ 수난시대](http://www.bloter.net/archives/399438)
       >- keyword : `틱톡`, `인스타그램`, `개인정보유출`
     
