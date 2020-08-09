@@ -8,6 +8,10 @@
    
     ## 2020년_8월
     
+    - 2020.08.10
+      >- title : [댓글창의 종말…”괴롭힐 공간을 없애라”](http://www.bloter.net/archives/399986)
+      >- keyword : `댓글`, `댓글문화`
+    
     - 2020.08.07
       >- title : [SKT, 2분기 영업이익 3595억…코로나19에도 방긋](http://www.bloter.net/archives/399505)
       >- keyword : `SKT`
