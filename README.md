@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.10
+      >- title : [망중립성 논란 다시 불붙나…캘리포니아-연방정부 ‘으르렁’](http://www.bloter.net/archives/400012)
+      >- keyword : `FCC`, `망중립성`, `미국`
+    
       >- title : [댓글창의 종말…”괴롭힐 공간을 없애라”](http://www.bloter.net/archives/399986)
       >- keyword : `댓글`, `댓글문화`
     
