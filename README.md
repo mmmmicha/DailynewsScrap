@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.20
+      >- title : [애플 ‘개발자 계정 해지’ 초강수…에픽 “명백한 보복”](http://www.bloter.net/archives/401092)
+      >- keyword : `애플`, `앱수수료갈등`, `에픽게임즈`
+    
       >- title : [엔비디아-구글 손잡다…클라우드게임 확산](http://www.bloter.net/archives/401185)
       >- keyword : `엔비디아`, `지포스나우`, `크롬북`
     
