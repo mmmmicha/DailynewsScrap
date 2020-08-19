@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.20
+      >- title : [“내 이웃이 배달해주는 편의점 상품”…GS리테일 우딜앱 공식 출범](http://www.bloter.net/archives/401277)
+      >- keyword : `GS리테일`, `우리동네딜리버리`
+    
       >- title : [‘갤럭시버즈 라이브’, 강낭콩을 둘러싼 잡음](http://www.bloter.net/archives/401287)
       >- keyword : `갤럭시버즈라이브`, `오픈형의한계`, `비판`
     
