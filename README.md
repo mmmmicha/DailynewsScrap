@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.21
+      >- title : [구글, 스마트홈 이어 스마트카도 확대…안드로이드 대통합](http://www.bloter.net/archives/401555)
+      >- keyword : `구글`, `안드로이드11`
+    
       >- title : [혁신없는 애플은 어떻게 시총 2조달러 기업이 됐나](http://www.bloter.net/archives/401502)
       >- keyword : `시총2조돌파`, `애플`, `서비스중심개편`
     
