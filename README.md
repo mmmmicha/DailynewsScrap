@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.24
+      >- title : [SKT-삼성전자, 블록체인 협업…단말 전자증명서 보안 강화한다](http://www.bloter.net/archives/401700)
+      >- keyword : `sk텔레콤`, `블록체인`, `삼성전자`
+    
       >- title : [중국, ‘깃허브’ 대안으로 ‘기티’ 키운다](http://www.bloter.net/archives/401738)
       >- keyword : `중국`, `github`, `기티`
     
