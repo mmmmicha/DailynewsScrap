@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.24
+      >- title : [갤럭시S21에 엑시노스 탑재?… 삼성의 ‘선택과 집중’](http://www.bloter.net/archives/401663)
+      >- keyword : `AMD`, `AP`, `ARM`
+    
       >- title : [SKT-삼성전자, 블록체인 협업…단말 전자증명서 보안 강화한다](http://www.bloter.net/archives/401700)
       >- keyword : `sk텔레콤`, `블록체인`, `삼성전자`
     
