@@ -8,6 +8,10 @@
    
     ## 2020년_8월
     
+    - 2020.08.24
+      >- title : [중국, ‘깃허브’ 대안으로 ‘기티’ 키운다](http://www.bloter.net/archives/401738)
+      >- keyword : `중국`, `github`, `기티`
+    
     - 2020.08.21
       >- title : [구글, 스마트홈 이어 스마트카도 확대…안드로이드 대통합](http://www.bloter.net/archives/401555)
       >- keyword : `구글`, `안드로이드11`
