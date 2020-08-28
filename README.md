@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.28
+      >- title : [포드-보쉬, 자율 ‘주차’ 기술 시연 성공](http://www.bloter.net/archives/402639)
+      >- keyword : `포드`, `보쉬`, `자율주차기술`
+    
       >- title : [토스, 은행·증권 출범 앞두고 2000억원 수혈](http://www.bloter.net/archives/402673)
       >- keyword : `토스`
     
