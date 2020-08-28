@@ -8,6 +8,10 @@
    
     ## 2020년_8월
     
+    - 2020.08.28
+      >- title : [토스, 은행·증권 출범 앞두고 2000억원 수혈](http://www.bloter.net/archives/402673)
+      >- keyword : `토스`
+    
     - 2020.08.24
       >- title : [갤럭시S21에 엑시노스 탑재?… 삼성의 ‘선택과 집중’](http://www.bloter.net/archives/401663)
       >- keyword : `AMD`, `AP`, `ARM`
