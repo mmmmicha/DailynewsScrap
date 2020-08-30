@@ -9,6 +9,9 @@
     ## 2020년_8월
     
     - 2020.08.31
+      >- title : [“대세는 즉시 배송”…유통 대기업 ‘배달 전쟁’ 가세](http://www.bloter.net/archives/402921)
+      >- keyword : `갤러리아백화점`, `김집사블랙`, `롯데쇼핑`
+    
       >- title : [도요타 투자로 나온 ‘플라잉 택시’, 시범운행 첫 선](http://www.bloter.net/archives/402938)
       >- keyword : `도요타`, `플라잉카`
     
