@@ -8,6 +8,10 @@
    
     ## 2020년_8월
     
+    - 2020.08.31
+      >- title : [도요타 투자로 나온 ‘플라잉 택시’, 시범운행 첫 선](http://www.bloter.net/archives/402938)
+      >- keyword : `도요타`, `플라잉카`
+    
     - 2020.08.28
       >- title : [포드-보쉬, 자율 ‘주차’ 기술 시연 성공](http://www.bloter.net/archives/402639)
       >- keyword : `포드`, `보쉬`, `자율주차기술`
