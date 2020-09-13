@@ -6,6 +6,12 @@
     - [2020년_5월](https://github.com/wjdrhkd456/DailynewsScrap/blob/master/2020%EB%85%84_5%EC%9B%94.md)
     - [2020년_4월](https://github.com/wjdrhkd456/DailynewsScrap/blob/master/2020%EB%85%84_4%EC%9B%94.md)
    
+    ## 2020년_9월
+    
+    - 2020.09.14
+      >- title : [[SNS에세이]인싸가 된 인디게임 ‘어몽어스’](http://www.bloter.net/archives/405539)
+      >- keyword : `어몽어스`, `스팀게임`
+   
     ## 2020년_8월
     
     - 2020.08.31
