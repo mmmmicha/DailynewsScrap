@@ -9,6 +9,9 @@
     ## 2020년_9월
     
     - 2020.09.14
+      >- title : [안드로이드 대신 독자 생존 택한 화웨이](http://www.bloter.net/archives/405355)
+      >- keyword : `화웨이`, `자체OS`
+    
       >- title : [[SNS에세이]인싸가 된 인디게임 ‘어몽어스’](http://www.bloter.net/archives/405539)
       >- keyword : `어몽어스`, `스팀게임`
    
