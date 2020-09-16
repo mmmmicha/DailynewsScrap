@@ -8,6 +8,10 @@
    
     ## 2020년_9월
     
+    - 2020.09.17
+      >- title : [‘카카오워크’, 카카오 스타일 협업 메신저의 무기는?](http://www.bloter.net/archives/406037)
+      >- keyword : `카카오워크`
+    
     - 2020.09.14
       >- title : [안드로이드 대신 독자 생존 택한 화웨이](http://www.bloter.net/archives/405355)
       >- keyword : `화웨이`, `자체OS`
