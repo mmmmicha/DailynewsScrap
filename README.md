@@ -9,6 +9,9 @@
     ## 2020년_9월
     
     - 2020.09.17
+      >- title : [SNS로 옮겨간 악플러…인스타그램 ‘사이버불링 근절 기능’ 홍보 나서](http://www.bloter.net/archives/405807)
+      >- keyword : `사이버불링`, `인스타그램`
+    
       >- title : [토종 OTT ‘왓챠’, 日 진출…글로벌 경쟁력 시험대](http://www.bloter.net/archives/405949)
       >- keyword : `왓챠`, `일본`
     
