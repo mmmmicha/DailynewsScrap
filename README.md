@@ -9,6 +9,9 @@
     ## 2020년_9월
     
     - 2020.09.17
+      >- title : [토종 OTT ‘왓챠’, 日 진출…글로벌 경쟁력 시험대](http://www.bloter.net/archives/405949)
+      >- keyword : `왓챠`, `일본`
+    
       >- title : [‘카카오워크’, 카카오 스타일 협업 메신저의 무기는?](http://www.bloter.net/archives/406037)
       >- keyword : `카카오워크`
     
