@@ -8,6 +8,10 @@
    
     ## 2020년_9월
     
+    - 2020.09.18
+      >- title : [애플, iOS14 판올림…개발자는 아우성](http://www.bloter.net/archives/406204)
+      >- keyword : `ios14`, `애플`
+    
     - 2020.09.17
       >- title : [SNS로 옮겨간 악플러…인스타그램 ‘사이버불링 근절 기능’ 홍보 나서](http://www.bloter.net/archives/405807)
       >- keyword : `사이버불링`, `인스타그램`
